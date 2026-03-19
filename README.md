@@ -43,7 +43,7 @@ Procedure:
 // Roll no:212223080043
 
 //Name:Ren robin
-MoveJ ................
+MoveJ .................
 
 ## output : 
 ![image](https://github.com/user-attachments/assets/d0721cab-b2f5-40c9-9df7-611c4b400bed)
